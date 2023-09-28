@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 FeatureC 
+=======
+featureC
+asdasdasd
+asdasd
+asd
+asdasda featureC
+>>>>>>> 807f2b51d9f843932278b88f72d86fe438bf20e8
