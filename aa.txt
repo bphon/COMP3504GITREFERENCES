@@ -1,8 +1,1 @@
-<<<<<<< HEAD
-featureD added
-asdasdasd
-asdasd
-asd
-asdasda featureC
-=======
->>>>>>> eec64e4e7a1ffa67da17eba39e8f3ca6824fa076
+
